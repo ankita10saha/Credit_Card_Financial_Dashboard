@@ -11,7 +11,7 @@ Identify top card categories, spending patterns, and key regions.
 Track activation, delinquency, and time-based trends.
 
 Tools & Skills:
-SQL- Data cleaning, joins, aggregations, CTEs
+SQL- Data cleaning, joins
 Power BI- Data modeling, interactive dashboards
 DAX- KPIs, WoW & YTD metrics
 
