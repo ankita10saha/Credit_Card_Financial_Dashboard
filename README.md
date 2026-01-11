@@ -1,2 +1,2 @@
-# Credit_card_dashboard
+# Credit_Card_Financial_Dashboard
 Powerbi dashboard
