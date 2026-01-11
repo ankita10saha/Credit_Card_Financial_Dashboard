@@ -15,6 +15,25 @@ SQL- Data cleaning & joins.
 Power BI- Data modeling & interactive dashboards.
 DAX- KPIs, WoW & YTD metrics
 
+Project Steps:
+1. Project Overview:
+What problem statement we will solve and what we will make under this project.
+
+2. Data Extraction:
+Connected Power Bi with SQL database, then import inside Power Bi and then will create a database.
+
+3. Data Processing & DAX Queries
+Performed some calculations inside Power Bi, will process the data and some will use the formula or functions to create columns, charts and tables.
+
+4. Dashboard & Insights
+Developed two interactive Power BI dashboards with KPIs, trends, and slicers.
+Analyzed customer behavior, card performance, transaction modes, and regional contribution.
+
+5. Export & Share
+Validated results and optimized performance.
+Exported dashboards and shared insights.
+
+
 Key Insights: Week 53 (31st Dec)
 
 WoW change:
